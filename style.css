@@ -1,0 +1,40 @@
+.container
+	
+{
+	height: 660px;
+	width: 1350px;
+	/*background-color: red;*/
+}
+header{
+	height: 130px;
+	width: 1364px;
+	background-color: black;
+	padding:10px;
+}
+section{
+	height: 550px;
+
+	width: 1364px;
+	background-color: grey;
+	margin:auto;
+	padding:10px;
+}
+footer{
+	height: 80px;
+	width: 1364px;
+	background-color: black;
+	padding:10px;
+}
+li a{
+	color:white;
+	text-decoration:none;
+}
+nav{
+	float:right;
+	word-spacing:30px;
+	padding:20px;
+}
+nav li{
+	display:inline-block;
+	line-height:20px;
+}
